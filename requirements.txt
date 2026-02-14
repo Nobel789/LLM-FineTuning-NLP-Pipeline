@@ -1,1 +1,13 @@
 
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+spacy
+pandas
+numpy
+regex
+scikit-learn
+jupyter
