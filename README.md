@@ -18,3 +18,5 @@ preprocessing/: Notebooks for LLM data preparation and linguistic feature extrac
 fine-tuning/: Implementation of QLoRA techniques and performance benchmarking.
 
 agents/: Applications including sentiment pipelines and intelligent troubleshooting.
+
+Clinical Triage (BERT + LoRA): Fine-tuned BlueBERT using Low-Rank Adaptation (LoRA) to classify patient symptoms as "Urgent" vs "Non-Urgent" for automated ER triage.
